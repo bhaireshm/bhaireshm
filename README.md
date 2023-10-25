@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Bhairesh M </h2>
 
-  🔭 I am currently working on react and nodejs.
+  🔭 I am currently working on react, nodejs, nd nestjs.
   
   <div>
     <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaireshm&theme=graywhite&hide_progress=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top languages"> 
